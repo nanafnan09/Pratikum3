@@ -4,7 +4,7 @@ Nama: Afnan Dika Ramadhan
 
 Kelas: TI.24.5
 
-NIM 312410510 
+NIM 312410518
 
 Mata Kuliah : Bahasa Pemograman
 
