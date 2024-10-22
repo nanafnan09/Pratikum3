@@ -10,7 +10,7 @@ Mata Kuliah : Bahasa Pemograman
 
 
 ## Mencari bilangan terbesar dari bilangan yang di inputkan
-Program ini menentukan bilangan terbesar dari serangkaian bilangan yang di inputkan hingga input 0. Program ini mengunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar  yang ditemukan.
+Program ini menentukan bilangan terbesar dari serangkaian bilangan yang di inputkan hingga input `0`. Program ini mengunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar  yang ditemukan.
 
 ## Flowchart Program
 ![Foto](https://github.com/nanafnan09/FLOWCHART/blob/04aa09acb19d1b0177ff78185162af8aa4b56d68/WhatsApp%20Image%202024-10-21%20at%2020.57.07.jpeg)
@@ -53,7 +53,7 @@ max_value = float(' -inf')
 ```python
 while True:
 ```
-Loop ini akan terus berjalan tanpa batas sampai ada kondisi yang menghentikan nya (dalam hal bilangan ini 0 dimasukan) bertujuan untuk mengizinkan penggunaa untuk memasukan bilangan hingga mereka memutuskan berhenti
+Loop ini akan terus berjalan tanpa batas sampai ada kondisi yang menghentikan nya (dalam hal bilangan ini `0` dimasukan) bertujuan untuk mengizinkan penggunaa untuk memasukan bilangan hingga mereka memutuskan berhenti
 
 ```python
 if number == 0:
@@ -73,5 +73,6 @@ else:
 ```
 Setelah penggunaan menghetikan input,program memeriksa apalah `max_value` masih bernilai `-inf`,yang berarti tidak ada bilangan yang dimaksudkan (selain `0`).Jika demikian,Pesan "Tidak ada bilangan yang dimaksukkan." akan ditampilkan.Jika ada bilangan yang dimaksudkan,program akan mencetak bilangan terbesar yang ditemukan. 
 
-
+Hasil Kode Pemograman
+![Foto](https://github.com/nanafnan09/foto-flowchart/blob/a9bc22dacfae9e0716f9de29f8f790ea40814732/SS%20B%20pemograman.png)
 
